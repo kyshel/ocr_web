@@ -1,0 +1,14 @@
+__pycache__/
+__pycache__
+*__pycache__*
+*__pycache__/*
+*.pyc
+*.wsgi
+*.log
+static/after/*.jpg
+static/after/*.jpeg
+static/after/*.png
+dbg/*
+3rd.key
+after/*
+
